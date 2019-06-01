@@ -8,4 +8,4 @@ These were totalled up and used to graph compared to other top streamers for the
 
 The program prints out the streamer that has the most mentions in titles for each month. The order
 is descending dates. The program also saves each plot for the user to view. Plots are all saved in 
-'2019to2017Plots'
+`2019to2017Plots`
