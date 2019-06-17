@@ -1,5 +1,5 @@
 # TwitchTotals
-Twitch Streamers popularity on /r/LivestreamFail
+Twitch Streamer (https://www.twitch.tv) popularity on /r/LivestreamFail
 
 Used reddit's Pushshift API to get all titles in the date range from /r/LiveStreamFail
 
